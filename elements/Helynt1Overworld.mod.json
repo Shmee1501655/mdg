@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "helynt1_smw_overworld",
+    "name": "Music Disc",
+    "description": "Helynt1 - Overworld",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:helynt1_overworld"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

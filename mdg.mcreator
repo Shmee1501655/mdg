@@ -1,0 +1,875 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "JamiesNameShulk",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jamies_name_shulk"
+    },
+    {
+      "name": "JamiesName18",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jamies_name_18"
+    },
+    {
+      "name": "JamiesNameTall",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jamies_name_tall"
+    },
+    {
+      "name": "JamiesNamePillaged",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jamies_name_pillaged"
+    },
+    {
+      "name": "Pikpik36Ice",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pikpik_36_ice"
+    },
+    {
+      "name": "SynthionAbleSisters",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "synthion_able_sisters"
+    },
+    {
+      "name": "GreenBurningClay",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_burning_clay"
+    },
+    {
+      "name": "GwydBricks",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gwyd_bricks"
+    },
+    {
+      "name": "EpicurasCradle",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epicuras_cradle"
+    },
+    {
+      "name": "MallowTeaLemonglass",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mallow_tea_lemonglass"
+    },
+    {
+      "name": "ShulkRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shulk_recipe"
+    },
+    {
+      "name": "Disc18Recipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "disc_18_recipe"
+    },
+    {
+      "name": "PillagedRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pillaged_recipe"
+    },
+    {
+      "name": "TallRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tall_recipe"
+    },
+    {
+      "name": "IceRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_recipe"
+    },
+    {
+      "name": "LemonglassRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lemonglass_recipe"
+    },
+    {
+      "name": "BricksRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bricks_recipe"
+    },
+    {
+      "name": "CradleRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cradle_recipe"
+    },
+    {
+      "name": "ClayRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clay_recipe"
+    },
+    {
+      "name": "AbleSistersRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "able_sisters_recipe"
+    },
+    {
+      "name": "TheTimebreakerWorldBowzer",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_timebreaker_world_bowzer"
+    },
+    {
+      "name": "DJCutmanWiiShop",
+      "type": "musicdisc",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dj_cutman_wii_shop"
+    },
+    {
+      "name": "Helynt1GustyGardens",
+      "type": "musicdisc",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "helynt_1_gusty_gardens"
+    },
+    {
+      "name": "Player2Lifelight",
+      "type": "musicdisc",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "player_2_lifelight"
+    },
+    {
+      "name": "WorldBowzerRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "world_bowzer_recipe"
+    },
+    {
+      "name": "WiiShopRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wii_shop_recipe"
+    },
+    {
+      "name": "GustyGardenRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gusty_garden_recipe"
+    },
+    {
+      "name": "LifelightRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lifelight_recipe"
+    },
+    {
+      "name": "DoomOnASpoonSeeds",
+      "type": "musicdisc",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doom_on_a_spoon_seeds"
+    },
+    {
+      "name": "SeedsRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seeds_recipe"
+    },
+    {
+      "name": "DoomOnASpoonWarden",
+      "type": "musicdisc",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doom_on_a_spoon_warden"
+    },
+    {
+      "name": "WardenRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warden_recipe"
+    },
+    {
+      "name": "Helynt1Overworld",
+      "type": "musicdisc",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "helynt_1_overworld"
+    },
+    {
+      "name": "OverworldRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "overworld_recipe"
+    },
+    {
+      "name": "MikelTBEFairyFountain",
+      "type": "musicdisc",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mikel_tbe_fairy_fountain"
+    },
+    {
+      "name": "FairyFountainRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fairy_fountain_recipe"
+    },
+    {
+      "name": "Helynt1RainbowRoad",
+      "type": "musicdisc",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "helynt_1_rainbow_road"
+    },
+    {
+      "name": "RainbowRoadRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainbow_road_recipe"
+    },
+    {
+      "name": "DoomOnASpoonJustTheBeginning",
+      "type": "musicdisc",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doom_on_a_spoon_just_the_beginning"
+    },
+    {
+      "name": "JustTheBeginningRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "just_the_beginning_recipe"
+    },
+    {
+      "name": "DoomOnASpoonTide",
+      "type": "musicdisc",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doom_on_a_spoon_tide"
+    },
+    {
+      "name": "TideRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tide_recipe"
+    },
+    {
+      "name": "DoomOnASpoonVengeful",
+      "type": "musicdisc",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doom_on_a_spoon_vengeful"
+    },
+    {
+      "name": "VengefulRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vengeful_recipe"
+    },
+    {
+      "name": "FirchAnti",
+      "type": "musicdisc",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firch_anti"
+    },
+    {
+      "name": "AntiRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anti_recipe"
+    },
+    {
+      "name": "FirchChop",
+      "type": "musicdisc",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firch_chop"
+    },
+    {
+      "name": "ChopRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chop_recipe"
+    },
+    {
+      "name": "FirchRange",
+      "type": "musicdisc",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firch_range"
+    },
+    {
+      "name": "RangeRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "range_recipe"
+    },
+    {
+      "name": "Shroom",
+      "type": "musicdisc",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shroom"
+    },
+    {
+      "name": "Jungle",
+      "type": "musicdisc",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle"
+    },
+    {
+      "name": "Rain",
+      "type": "musicdisc",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rain"
+    },
+    {
+      "name": "Activate",
+      "type": "musicdisc",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "activate"
+    },
+    {
+      "name": "ShroomRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shroom_recipe"
+    },
+    {
+      "name": "JungleRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_recipe"
+    },
+    {
+      "name": "RainRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rain_recipe"
+    },
+    {
+      "name": "ActivateRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "activate_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "jamiesname_shulk",
+      "files": [
+        "11"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "jamiesname_18",
+      "files": [
+        "13"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "jamiesname_tall",
+      "files": [
+        "tall_remix_-_custom_minecraft_music_disc"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "jamiesname_pillaged",
+      "files": [
+        "stal"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "pikpik36_ice",
+      "files": [
+        "ice_music_disc_concept"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "gwyd_bricks",
+      "files": [
+        "minecraft_ost__-__bricks_fan_made_minecraft_music_disc__fan-made_music_disc_concept"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "mallowtea_lemonglass",
+      "files": [
+        "lemonglass_-_mallowtea"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "epicuras_cradle",
+      "files": [
+        "cradle_-_fanmade_minecraft_music_disc_1"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "greenburning_clay",
+      "files": [
+        "clay_-_fanmade_minecraft_music_disc_1"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "synthion_able_sisters",
+      "files": [
+        "trap_-_synthion_-_able_sisters_free_download"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "thetimebreaker_wbesr",
+      "files": [
+        "world_bowser_electro_swing_remix___super_mario_3d_world"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "djcutman_wii_shop",
+      "files": [
+        "wii_shop__dj_cutman_remix"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "helynt1_gusty_gardens",
+      "files": [
+        "super_mario_galaxy__gusty_gardens___mario__chill"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "player2_lifelight",
+      "files": [
+        "smash_ultimate___lifelight___player2_funky_house_remix"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "doom_on_a_spoon_seeds",
+      "files": [
+        "villager_music_disc_concept_seeds_minecraft"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "doom_on_a_spoon_warden",
+      "files": [
+        "warden_minecraft_music_disc_concept_read_desc_pls"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "helynt1_overworld",
+      "files": [
+        "super_mario_world__overworld___mario__chill"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "mikeltbe_fairy_fountain",
+      "files": [
+        "zelda__chill__fairy_fountain__mikel_lofi_remix"
+      ],
+      "category": "master",
+      "subtitle": "Music DIsc Plays"
+    },
+    {
+      "name": "helynt1_rainbow_road",
+      "files": [
+        "mario_kart__rainbow_road_synthwave_remix___mario__chill"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "doom_on_a_spoon_tide",
+      "files": [
+        "ocean_music_disc_concept_tide_minecraft"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "doom_on_a_spoon_vengeful",
+      "files": [
+        "nether_fortress_disc_concept_vengeful_minecraft"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "firch_anti",
+      "files": [
+        "minecraft_ust_-_anti_end_music_disc_concept_1"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "firch_chop",
+      "files": [
+        "minecraft_ust_-_chop_mansion_music_disc_concept"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "firch_range",
+      "files": [
+        "minecraft_ust_-_range_desert_badlands_music_disc_concept"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "doom_on_a_spoon_just_the_beginning",
+      "files": [
+        "end_music_disc_concept_just_the_beginning_minecraft"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "kazyumayui_activate",
+      "files": [
+        "minecraft_fan_disc_-_activate"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "kazyumayui_jungle",
+      "files": [
+        "minecraft_fan_disc_-_jungle"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "kazyumayui_rain",
+      "files": [
+        "minecraft_fan_disc_-_rain"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    },
+    {
+      "name": "kazyumayui_shroom",
+      "files": [
+        "minecraft_fan_disc_-_shroom"
+      ],
+      "category": "master",
+      "subtitle": "Music Disc Plays"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.mdg.jamies_name_shulk.desc": "JamiesName - Shulk",
+      "item.mdg.activate": "Music Disc",
+      "item.mdg.helynt_1_overworld.desc": "Helynt1 - Overworld",
+      "subtitles.doom_on_a_spoon_vengeful": "Music Disc Plays",
+      "item.mdg.mikel_tbe_fairy_fountain.desc": "MikelTBE - Fairy Fountain",
+      "subtitles.djcutman_wii_shop": "Music Disc Plays",
+      "subtitles.pikpik36_ice": "Music Disc Plays",
+      "item.mdg.gwyd_bricks.desc": "Gwyd - Bricks",
+      "subtitles.player2_lifelight": "Music Disc Plays",
+      "subtitles.doom_on_a_spoon_tide": "Music Disc Plays",
+      "item.mdg.synthion_able_sisters": "Music Disc",
+      "subtitles.mallowtea_lemonglass": "Music Disc Plays",
+      "item.mdg.helynt_1_rainbow_road.desc": "Helynt1 - Rainbow Road",
+      "item.mdg.gwyd_bricks": "Music Disc",
+      "item.mdg.green_burning_clay.desc": "GreenBurning - Clay",
+      "item.mdg.doom_on_a_spoon_tide": "Music Disc",
+      "subtitles.helynt1_overworld": "Music Disc Plays",
+      "item.mdg.firch_anti.desc": "Firch - Anti",
+      "subtitles.doom_on_a_spoon_just_the_beginning": "Music Disc Plays",
+      "subtitles.kazyumayui_jungle": "Music Disc Plays",
+      "item.mdg.jamies_name_tall": "Music Disc",
+      "item.mdg.helynt_1_gusty_gardens.desc": "Helynt1 - Gusty Gardens",
+      "item.mdg.the_timebreaker_world_bowzer": "Music Disc",
+      "item.mdg.firch_range": "Music Disc",
+      "item.mdg.jungle": "Music Disc",
+      "item.mdg.dj_cutman_wii_shop": "Music Disc",
+      "item.mdg.doom_on_a_spoon_just_the_beginning": "Music Disc",
+      "item.mdg.jamies_name_shulk": "Music Disc",
+      "subtitles.jamiesname_shulk": "Music Disc Plays",
+      "subtitles.jamiesname_18": "Music Disc Plays",
+      "item.mdg.doom_on_a_spoon_seeds.desc": "DoomOnASpoon - Seeds",
+      "subtitles.gwyd_bricks": "Music Disc Plays",
+      "item.mdg.synthion_able_sisters.desc": "Synthion - Able Sisters",
+      "item.mdg.mikel_tbe_fairy_fountain": "Music Disc",
+      "item.mdg.the_timebreaker_world_bowzer.desc": "TheTimebreaker - World Bowser (Electro Swing Remix)",
+      "item.mdg.helynt_1_overworld": "Music Disc",
+      "item.mdg.doom_on_a_spoon_tide.desc": "DoomOnASpoon - Tide",
+      "subtitles.jamiesname_tall": "Music Disc Plays",
+      "item.mdg.player_2_lifelight": "Music Disc",
+      "item.mdg.firch_chop.desc": "Firch - Chop",
+      "subtitles.helynt1_gusty_gardens": "Music Disc Plays",
+      "subtitles.firch_anti": "Music Disc Plays",
+      "item.mdg.rain": "Music Disc",
+      "item.mdg.jamies_name_18.desc": "JamiesName - 18",
+      "item.mdg.firch_chop": "Music Disc",
+      "subtitles.greenburning_clay": "Music Disc Plays",
+      "item.mdg.mallow_tea_lemonglass": "Music Disc",
+      "subtitles.doom_on_a_spoon_seeds": "Music Disc Plays",
+      "item.mdg.doom_on_a_spoon_warden.desc": "DoomOnASpoon - Warden",
+      "item.mdg.firch_range.desc": "Firch - Range",
+      "item.mdg.doom_on_a_spoon_vengeful": "Music Disc",
+      "subtitles.firch_range": "Music Disc Plays",
+      "item.mdg.pikpik_36_ice": "Music Disc",
+      "item.mdg.green_burning_clay": "Music Disc",
+      "item.mdg.doom_on_a_spoon_vengeful.desc": "DoomOnASpoon - Vengeful",
+      "item.mdg.jungle.desc": "Kaz Yumayui - Jungle",
+      "item.mdg.activate.desc": "Kaz Yumayui - Activate",
+      "subtitles.doom_on_a_spoon_warden": "Music Disc Plays",
+      "subtitles.kazyumayui_activate": "Music Disc Plays",
+      "item.mdg.pikpik_36_ice.desc": "Pikpik36 - Ice",
+      "item.mdg.jamies_name_tall.desc": "JamiesName - Tall",
+      "subtitles.thetimebreaker_wbesr": "Music Disc Plays",
+      "item.mdg.helynt_1_gusty_gardens": "Music Disc",
+      "item.mdg.player_2_lifelight.desc": "Player2 - Lifelight",
+      "item.mdg.shroom": "Music Disc",
+      "item.mdg.epicuras_cradle": "Music Disc",
+      "item.mdg.jamies_name_18": "Music Disc",
+      "item.mdg.jamies_name_pillaged": "Music Disc",
+      "subtitles.kazyumayui_shroom": "Music Disc Plays",
+      "item.mdg.shroom.desc": "Kaz Yumayui - Shroom",
+      "subtitles.jamiesname_pillaged": "Music Disc Plays",
+      "subtitles.synthion_able_sisters": "Music Disc Plays",
+      "subtitles.kazyumayui_rain": "Music Disc Plays",
+      "item.mdg.dj_cutman_wii_shop.desc": "DJ Cutman - Wii Shop (Remix)",
+      "subtitles.epicuras_cradle": "Music Disc Plays",
+      "item.mdg.jamies_name_pillaged.desc": "JamiesName - Pillaged",
+      "item.mdg.doom_on_a_spoon_warden": "Music Disc",
+      "subtitles.firch_chop": "Music Disc Plays",
+      "subtitles.helynt1_rainbow_road": "Music Disc Plays",
+      "subtitles.mikeltbe_fairy_fountain": "Music DIsc Plays",
+      "item.mdg.doom_on_a_spoon_seeds": "Music Disc",
+      "item.mdg.rain.desc": "Kaz Yumayui - Rain",
+      "item.mdg.epicuras_cradle.desc": "Epicuras - Cradle",
+      "item.mdg.firch_anti": "Music Disc",
+      "item.mdg.helynt_1_rainbow_road": "Music Disc",
+      "item.mdg.doom_on_a_spoon_just_the_beginning.desc": "DoomOnASpoon - Just The Beginning",
+      "item.mdg.mallow_tea_lemonglass.desc": "MallowTea - Lemonglass"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mdg",
+    "modName": "mdg",
+    "version": "1.0.0",
+    "author": "GOSLJ20, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "modElementsPackage": "net.mcreator.mdg",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100116710
+}

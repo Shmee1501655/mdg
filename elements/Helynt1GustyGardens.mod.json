@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "helynt1_gusty_gardens",
+    "name": "Music Disc",
+    "description": "Helynt1 - Gusty Gardens",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:helynt1_gusty_gardens"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

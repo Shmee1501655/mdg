@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "epicuras_cradle",
+    "name": "Music Disc",
+    "description": "Epicuras - Cradle",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:epicuras_cradle"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "lemonglass",
+    "name": "Music Disc",
+    "description": "MallowTea - Lemonglass",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:mallowtea_lemonglass"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "doom_on_a_spoon_tide",
+    "name": "Music Disc",
+    "description": "DoomOnASpoon - Tide",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:doom_on_a_spoon_tide"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

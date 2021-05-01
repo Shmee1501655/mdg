@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "player2_lifelight",
+    "name": "Music Disc",
+    "description": "Player2 - Lifelight",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:player2_lifelight"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

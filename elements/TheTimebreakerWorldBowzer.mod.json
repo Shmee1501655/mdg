@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "thetimebreaker_world_bowzer",
+    "name": "Music Disc",
+    "description": "TheTimebreaker - World Bowser (Electro Swing Remix)",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:thetimebreaker_wbesr"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

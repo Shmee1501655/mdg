@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "mdg",
+  "version": "1.0.0",
+  "name": "mdg",
+  "authors": [
+    "GOSLJ20, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": "https://github.com/ClothCreators/MCreatorFabricGenerator"
+  },
+  "license": "Academic Free License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.mdg.MdgMod"
+    ],
+    "client": [
+      "net.mcreator.mdg.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.9.0",
+    "fabric": "*"
+  }
+}

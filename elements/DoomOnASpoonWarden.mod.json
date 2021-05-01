@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "doom_on_a_spoon_warden",
+    "name": "Music Disc",
+    "description": "DoomOnASpoon - Warden",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:doom_on_a_spoon_warden"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

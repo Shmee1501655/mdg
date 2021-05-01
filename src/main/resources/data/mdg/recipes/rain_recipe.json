@@ -1,0 +1,26 @@
+{
+  "group": "mdg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:potion"
+    },
+    "1": {
+      "item": "minecraft:iron_nugget"
+    },
+    "2": {
+      "item": "minecraft:flint"
+    },
+    "3": {
+      "item": "minecraft:ink_sac"
+    }
+  },
+  "result": {
+    "item": "mdg:rain",
+    "count": 1
+  }
+}

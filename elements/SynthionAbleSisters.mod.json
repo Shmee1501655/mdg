@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "synthion_able_sisters",
+    "name": "Music Disc",
+    "description": "Synthion - Able Sisters",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:synthion_able_sisters"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

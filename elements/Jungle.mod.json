@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "kazyumayui_jungle",
+    "name": "Music Disc",
+    "description": "Kaz Yumayui - Jungle",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:kazyumayui_jungle"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

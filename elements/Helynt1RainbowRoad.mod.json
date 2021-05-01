@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "helynt1_rainbow_road",
+    "name": "Music Disc",
+    "description": "Helynt1 - Rainbow Road",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:helynt1_rainbow_road"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

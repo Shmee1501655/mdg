@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "pikpik36_ice",
+    "name": "Music Disc",
+    "description": "Pikpik36 - Ice",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:pikpik36_ice"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

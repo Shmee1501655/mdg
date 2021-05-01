@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "kazyumayui_shroom",
+    "name": "Music Disc",
+    "description": "Kaz Yumayui - Shroom",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:kazyumayui_shroom"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

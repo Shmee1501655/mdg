@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "jamiesname_pillaged",
+    "name": "Music Disc",
+    "description": "JamiesName - Pillaged",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:jamiesname_pillaged"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "djcutman_fairy_fountain",
+    "name": "Music Disc",
+    "description": "MikelTBE - Fairy Fountain",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:mikeltbe_fairy_fountain"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

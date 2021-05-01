@@ -1,0 +1,292 @@
+{
+  "jamiesname_shulk": {
+    "category": "master",
+    "subtitle": "subtitles.jamiesname_shulk",
+    "sounds": [
+      {
+        "name": "mdg:11",
+        "stream": false
+      }
+    ]
+  },
+  "jamiesname_18": {
+    "category": "master",
+    "subtitle": "subtitles.jamiesname_18",
+    "sounds": [
+      {
+        "name": "mdg:13",
+        "stream": false
+      }
+    ]
+  },
+  "jamiesname_tall": {
+    "category": "master",
+    "subtitle": "subtitles.jamiesname_tall",
+    "sounds": [
+      {
+        "name": "mdg:tall_remix_-_custom_minecraft_music_disc",
+        "stream": false
+      }
+    ]
+  },
+  "jamiesname_pillaged": {
+    "category": "master",
+    "subtitle": "subtitles.jamiesname_pillaged",
+    "sounds": [
+      {
+        "name": "mdg:stal",
+        "stream": false
+      }
+    ]
+  },
+  "pikpik36_ice": {
+    "category": "master",
+    "subtitle": "subtitles.pikpik36_ice",
+    "sounds": [
+      {
+        "name": "mdg:ice_music_disc_concept",
+        "stream": false
+      }
+    ]
+  },
+  "gwyd_bricks": {
+    "category": "master",
+    "subtitle": "subtitles.gwyd_bricks",
+    "sounds": [
+      {
+        "name": "mdg:minecraft_ost__-__bricks_fan_made_minecraft_music_disc__fan-made_music_disc_concept",
+        "stream": false
+      }
+    ]
+  },
+  "mallowtea_lemonglass": {
+    "category": "master",
+    "subtitle": "subtitles.mallowtea_lemonglass",
+    "sounds": [
+      {
+        "name": "mdg:lemonglass_-_mallowtea",
+        "stream": false
+      }
+    ]
+  },
+  "epicuras_cradle": {
+    "category": "master",
+    "subtitle": "subtitles.epicuras_cradle",
+    "sounds": [
+      {
+        "name": "mdg:cradle_-_fanmade_minecraft_music_disc_1",
+        "stream": false
+      }
+    ]
+  },
+  "greenburning_clay": {
+    "category": "master",
+    "subtitle": "subtitles.greenburning_clay",
+    "sounds": [
+      {
+        "name": "mdg:clay_-_fanmade_minecraft_music_disc_1",
+        "stream": false
+      }
+    ]
+  },
+  "synthion_able_sisters": {
+    "category": "master",
+    "subtitle": "subtitles.synthion_able_sisters",
+    "sounds": [
+      {
+        "name": "mdg:trap_-_synthion_-_able_sisters_free_download",
+        "stream": false
+      }
+    ]
+  },
+  "thetimebreaker_wbesr": {
+    "category": "master",
+    "subtitle": "subtitles.thetimebreaker_wbesr",
+    "sounds": [
+      {
+        "name": "mdg:world_bowser_electro_swing_remix___super_mario_3d_world",
+        "stream": false
+      }
+    ]
+  },
+  "djcutman_wii_shop": {
+    "category": "master",
+    "subtitle": "subtitles.djcutman_wii_shop",
+    "sounds": [
+      {
+        "name": "mdg:wii_shop__dj_cutman_remix",
+        "stream": false
+      }
+    ]
+  },
+  "helynt1_gusty_gardens": {
+    "category": "master",
+    "subtitle": "subtitles.helynt1_gusty_gardens",
+    "sounds": [
+      {
+        "name": "mdg:super_mario_galaxy__gusty_gardens___mario__chill",
+        "stream": false
+      }
+    ]
+  },
+  "player2_lifelight": {
+    "category": "master",
+    "subtitle": "subtitles.player2_lifelight",
+    "sounds": [
+      {
+        "name": "mdg:smash_ultimate___lifelight___player2_funky_house_remix",
+        "stream": false
+      }
+    ]
+  },
+  "doom_on_a_spoon_seeds": {
+    "category": "master",
+    "subtitle": "subtitles.doom_on_a_spoon_seeds",
+    "sounds": [
+      {
+        "name": "mdg:villager_music_disc_concept_seeds_minecraft",
+        "stream": false
+      }
+    ]
+  },
+  "doom_on_a_spoon_warden": {
+    "category": "master",
+    "subtitle": "subtitles.doom_on_a_spoon_warden",
+    "sounds": [
+      {
+        "name": "mdg:warden_minecraft_music_disc_concept_read_desc_pls",
+        "stream": false
+      }
+    ]
+  },
+  "helynt1_overworld": {
+    "category": "master",
+    "subtitle": "subtitles.helynt1_overworld",
+    "sounds": [
+      {
+        "name": "mdg:super_mario_world__overworld___mario__chill",
+        "stream": false
+      }
+    ]
+  },
+  "mikeltbe_fairy_fountain": {
+    "category": "master",
+    "subtitle": "subtitles.mikeltbe_fairy_fountain",
+    "sounds": [
+      {
+        "name": "mdg:zelda__chill__fairy_fountain__mikel_lofi_remix",
+        "stream": false
+      }
+    ]
+  },
+  "helynt1_rainbow_road": {
+    "category": "master",
+    "subtitle": "subtitles.helynt1_rainbow_road",
+    "sounds": [
+      {
+        "name": "mdg:mario_kart__rainbow_road_synthwave_remix___mario__chill",
+        "stream": false
+      }
+    ]
+  },
+  "doom_on_a_spoon_tide": {
+    "category": "master",
+    "subtitle": "subtitles.doom_on_a_spoon_tide",
+    "sounds": [
+      {
+        "name": "mdg:ocean_music_disc_concept_tide_minecraft",
+        "stream": false
+      }
+    ]
+  },
+  "doom_on_a_spoon_vengeful": {
+    "category": "master",
+    "subtitle": "subtitles.doom_on_a_spoon_vengeful",
+    "sounds": [
+      {
+        "name": "mdg:nether_fortress_disc_concept_vengeful_minecraft",
+        "stream": false
+      }
+    ]
+  },
+  "firch_anti": {
+    "category": "master",
+    "subtitle": "subtitles.firch_anti",
+    "sounds": [
+      {
+        "name": "mdg:minecraft_ust_-_anti_end_music_disc_concept_1",
+        "stream": false
+      }
+    ]
+  },
+  "firch_chop": {
+    "category": "master",
+    "subtitle": "subtitles.firch_chop",
+    "sounds": [
+      {
+        "name": "mdg:minecraft_ust_-_chop_mansion_music_disc_concept",
+        "stream": false
+      }
+    ]
+  },
+  "firch_range": {
+    "category": "master",
+    "subtitle": "subtitles.firch_range",
+    "sounds": [
+      {
+        "name": "mdg:minecraft_ust_-_range_desert_badlands_music_disc_concept",
+        "stream": false
+      }
+    ]
+  },
+  "doom_on_a_spoon_just_the_beginning": {
+    "category": "master",
+    "subtitle": "subtitles.doom_on_a_spoon_just_the_beginning",
+    "sounds": [
+      {
+        "name": "mdg:end_music_disc_concept_just_the_beginning_minecraft",
+        "stream": false
+      }
+    ]
+  },
+  "kazyumayui_activate": {
+    "category": "master",
+    "subtitle": "subtitles.kazyumayui_activate",
+    "sounds": [
+      {
+        "name": "mdg:minecraft_fan_disc_-_activate",
+        "stream": false
+      }
+    ]
+  },
+  "kazyumayui_jungle": {
+    "category": "master",
+    "subtitle": "subtitles.kazyumayui_jungle",
+    "sounds": [
+      {
+        "name": "mdg:minecraft_fan_disc_-_jungle",
+        "stream": false
+      }
+    ]
+  },
+  "kazyumayui_rain": {
+    "category": "master",
+    "subtitle": "subtitles.kazyumayui_rain",
+    "sounds": [
+      {
+        "name": "mdg:minecraft_fan_disc_-_rain",
+        "stream": false
+      }
+    ]
+  },
+  "kazyumayui_shroom": {
+    "category": "master",
+    "subtitle": "subtitles.kazyumayui_shroom",
+    "sounds": [
+      {
+        "name": "mdg:minecraft_fan_disc_-_shroom",
+        "stream": false
+      }
+    ]
+  }
+}

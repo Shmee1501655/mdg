@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "gwyd_bricks",
+    "name": "Music Disc",
+    "description": "Gwyd - Bricks",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:gwyd_bricks"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

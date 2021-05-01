@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "greenburning_clay",
+    "name": "Music Disc",
+    "description": "GreenBurning - Clay",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:greenburning_clay"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "kazyumayui_rain",
+    "name": "Music Disc",
+    "description": "Kaz Yumayui - Rain",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:kazyumayui_rain"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

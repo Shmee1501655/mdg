@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "firch_anti",
+    "name": "Music Disc",
+    "description": "Firch - Anti",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:firch_anti"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

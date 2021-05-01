@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "jamiesname_18",
+    "name": "Music Disc",
+    "description": "JamiesName - 18",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:jamiesname_18"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

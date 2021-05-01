@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "djcutman_wii_shop",
+    "name": "Music Disc",
+    "description": "DJ Cutman - Wii Shop (Remix)",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:djcutman_wii_shop"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
