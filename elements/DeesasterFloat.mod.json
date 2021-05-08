@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "deesaster_float",
+    "name": "Music Disc",
+    "description": "Deesaster - Float",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:deesaster_float"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

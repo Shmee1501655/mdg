@@ -288,5 +288,15 @@
         "stream": false
       }
     ]
+  },
+  "deesaster_float": {
+    "category": "master",
+    "subtitle": "subtitles.deesaster_float",
+    "sounds": [
+      {
+        "name": "mdg:minecraft_ost_-_float_fan-made_music_disc_concept",
+        "stream": false
+      }
+    ]
   }
 }

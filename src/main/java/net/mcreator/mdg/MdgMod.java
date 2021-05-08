@@ -47,6 +47,7 @@ import net.mcreator.mdg.item.DoomOnASpoonVengefulMusicDisc;
 import net.mcreator.mdg.item.DoomOnASpoonTideMusicDisc;
 import net.mcreator.mdg.item.DoomOnASpoonSeedsMusicDisc;
 import net.mcreator.mdg.item.DoomOnASpoonJustTheBeginningMusicDisc;
+import net.mcreator.mdg.item.DeesasterFloatMusicDisc;
 import net.mcreator.mdg.item.DJCutmanWiiShopMusicDisc;
 import net.mcreator.mdg.item.ActivateMusicDisc;
 
@@ -113,6 +114,8 @@ public class MdgMod implements ModInitializer {
 	public static final SoundEvent kazyumayui_rainEvent = new SoundEvent(kazyumayui_rain_ID);
 	public static final Identifier kazyumayui_shroom_ID = id("kazyumayui_shroom");
 	public static final SoundEvent kazyumayui_shroomEvent = new SoundEvent(kazyumayui_shroom_ID);
+	public static final Identifier deesaster_float_ID = id("deesaster_float");
+	public static final SoundEvent deesaster_floatEvent = new SoundEvent(deesaster_float_ID);
 	public static final Item JamiesNameShulk_ITEM = Registry.register(Registry.ITEM, id("jamies_name_shulk"), new JamiesNameShulkMusicDisc());
 	public static final Item JamiesName18_ITEM = Registry.register(Registry.ITEM, id("jamies_name_18"), new JamiesName18MusicDisc());
 	public static final Item JamiesNameTall_ITEM = Registry.register(Registry.ITEM, id("jamies_name_tall"), new JamiesNameTallMusicDisc());
@@ -152,6 +155,7 @@ public class MdgMod implements ModInitializer {
 	public static final Item Jungle_ITEM = Registry.register(Registry.ITEM, id("jungle"), new JungleMusicDisc());
 	public static final Item Rain_ITEM = Registry.register(Registry.ITEM, id("rain"), new RainMusicDisc());
 	public static final Item Activate_ITEM = Registry.register(Registry.ITEM, id("activate"), new ActivateMusicDisc());
+	public static final Item DeesasterFloat_ITEM = Registry.register(Registry.ITEM, id("deesaster_float"), new DeesasterFloatMusicDisc());
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Initializing MdgMod");
@@ -184,6 +188,7 @@ public class MdgMod implements ModInitializer {
 		Registry.register(Registry.SOUND_EVENT, MdgMod.kazyumayui_jungle_ID, MdgMod.kazyumayui_jungleEvent);
 		Registry.register(Registry.SOUND_EVENT, MdgMod.kazyumayui_rain_ID, MdgMod.kazyumayui_rainEvent);
 		Registry.register(Registry.SOUND_EVENT, MdgMod.kazyumayui_shroom_ID, MdgMod.kazyumayui_shroomEvent);
+		Registry.register(Registry.SOUND_EVENT, MdgMod.deesaster_float_ID, MdgMod.deesaster_floatEvent);
 		CommandRegistrationCallback.EVENT.register((dispatcher, dedicated) -> {
 		});
 	}
